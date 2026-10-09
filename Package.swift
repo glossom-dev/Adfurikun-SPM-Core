@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ADFMovieReward",
-            url: "https://github.com/glossom-dev/Adfurikun-SPM-Core/releases/download/4.5.0-alpha.2/ADFMovieReward.xcframework.zip",
-            checksum: "5dac55ba8d1bdbfc0a6e7700fcdbf11353b3a4776bbeb435c90273eb16ab9230"
+            url: "https://github.com/glossom-dev/Adfurikun-SPM-Core/releases/download/4.5.0-alpha.3/ADFMovieReward.xcframework.zip",
+            checksum: "6f6736d9a2ad7ba60db60d1b19fa39a0022c97e8ef528a6c5b7d95f5278e0877"
         ),
         .target(
             name: "AdfurikunSDKTarget",
