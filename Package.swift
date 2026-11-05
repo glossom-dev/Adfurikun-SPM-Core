@@ -16,13 +16,13 @@ let package = Package(
         // ビルド手順は Tools/ADFSwiftRuntimeHelper/README.md を参照。
         .binaryTarget(
             name: "ADFSwiftRuntimeHelper",
-            url: "https://github.com/glossom-dev/Adfurikun-SPM-Core/releases/download/4.5.0-alpha.5/ADFSwiftRuntimeHelper.xcframework.zip",
+            url: "https://github.com/glossom-dev/Adfurikun-SPM-Core/releases/download/4.5.0/ADFSwiftRuntimeHelper.xcframework.zip",
             checksum: "6787cc6179668b924300190f010451488a60139682a47ee327bace5ac9506586"
         ),
         .binaryTarget(
             name: "ADFMovieReward",
-            url: "https://github.com/glossom-dev/Adfurikun-SPM-Core/releases/download/4.5.0-alpha.5/ADFMovieReward.xcframework.zip",
-            checksum: "ee37c891e5aba858c7faa7a48cc42b3f16b117cf33ebc17a57f28c110ff50321"
+            url: "https://github.com/glossom-dev/Adfurikun-SPM-Core/releases/download/4.5.0/ADFMovieReward.xcframework.zip",
+            checksum: "f78599b86affd35ea35ffe22efa40ff51143699f8ad52a52bb2b01803b4d1a41"
         ),
         .target(
             name: "AdfurikunSDKTarget",
